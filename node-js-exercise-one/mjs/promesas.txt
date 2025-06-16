@@ -1,0 +1,1 @@
+Un día nos vamos a casar (soy un texto ejecutado usando promesas)
