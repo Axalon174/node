@@ -1,4 +1,7 @@
 function add(a,b){
     return parseFloat(a)+parseFloat(b);
 }
-console.log(add(1.1,2))
+//common js module export
+module.exports= {
+    add
+}
